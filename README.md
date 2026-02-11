@@ -87,20 +87,9 @@ BSc in Computer Science
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AntonioZhouPL&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioZhouPL&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-</div>
-
----
-
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://antonio-portfolio-ruddy.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AntonioZhouPL)
-
-![Profile Views](https://komarev.com/ghpvc/?username=AntonioZhouPL&color=blueviolet&style=flat-square)
 
 </div>
