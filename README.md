@@ -2,7 +2,7 @@
 
 # Songming (Antonio) Zhou
 
-### Quantitative Finance Student | Machine Learning Enthusiast | Former Huawei Project Leader
+### Quantitative Finance Master Student | Machine Learning Enthusiast | Former Huawei Project Leader
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-antonio--portfolio-black?style=for-the-badge&logo=vercel)](https://antonio-portfolio-ruddy.vercel.app/)
 [![Location](https://img.shields.io/badge/Warsaw,_Poland-blue?style=for-the-badge&logo=googlemaps&logoColor=white)]()
