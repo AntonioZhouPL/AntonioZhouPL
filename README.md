@@ -1,17 +1,24 @@
-**2026 International Quant Competition (WorldQuant) — Gold Level Recognition** | MSc Quantitative Finance at **University of Warsaw** | **Ex-HUAWEI**.
+# Songming (Antonio) Zhou
 
-I work on the intersection of **machine learning systems**, **financial time-series modelling**, and **quantitative research tooling**.
+**MSc Quantitative Finance @ University of Warsaw** · **Ex-HUAWEI** · **2026 International Quant Competition (WorldQuant) — Gold Level Recognition**
 
-Currently focused on realized volatility forecasting and uncertainty-aware risk modelling, including conformal prediction methods such as **Split Conformal**, **ACI**, and **EnbPI**.
+I focus on **quantitative finance**, **financial machine learning**, and **robust empirical modelling for market data**. My current work studies realized volatility forecasting under distribution shift, with emphasis on conformal prediction, calibration, and risk-aware evaluation.
 
-🔗 **[Portfolio](https://antonio-portfolio-ruddy.vercel.app/)** · **[LinkedIn](https://www.linkedin.com/in/songming-zhou-087380243/)**
+Portfolio: [antonio-portfolio-ruddy.vercel.app](https://antonio-portfolio-ruddy.vercel.app/)  
+LinkedIn: [songming-zhou-087380243](https://www.linkedin.com/in/songming-zhou-087380243/)
+
+## Focus
+
+- Financial time-series modelling and volatility forecasting
+- Conformal prediction, calibration, and uncertainty-aware risk modelling
+- Machine learning systems, model validation, and empirical research tooling
 
 ## Selected Work
 
-- **Conformal Prediction for Volatility Forecasting** — research project on S&P 500 realized volatility intervals under distribution shift.
-- **ML Systems Optimization** — inference and pipeline optimization work from Huawei R&D, including PyTorch model optimization and predictive modelling workflows.
-- **Financial ML / Quant Research** — empirical modelling, validation, and evaluation for market data and risk-related applications.
+- **Conformal Prediction for Volatility Forecasting** — S&P 500 realized volatility interval forecasting using Split Conformal, ACI, and EnbPI.
+- **ML Systems & Optimization** — production-oriented ML workflow experience from Huawei R&D, including PyTorch model optimization and predictive modelling pipelines.
+- **Quantitative Research Tooling** — reproducible Python workflows for data processing, modelling, backtesting-style evaluation, and result analysis.
 
-## Tools
+## Stack
 
 Python · C++ · SQL · R · PyTorch · scikit-learn · XGBoost · pandas · NumPy · Git · Linux
