@@ -2,7 +2,7 @@
 
 **MSc Quantitative Finance @ University of Warsaw** · **Ex-HUAWEI** · **2026 International Quant Competition (WorldQuant) — Gold Level Recognition**
 
-I focus on **quantitative finance**, **financial machine learning**, and **robust empirical modelling for market data**. My current work studies realized volatility forecasting under distribution shift, with emphasis on conformal prediction, calibration, and risk-aware evaluation.
+Quantitative finance and financial machine learning, with a focus on financial time-series modelling, volatility forecasting, uncertainty quantification, and robust model evaluation for market data.
 
 <p>
   <a href="https://antonio-portfolio-ruddy.vercel.app/">
@@ -15,15 +15,10 @@ I focus on **quantitative finance**, **financial machine learning**, and **robus
 
 ## Focus
 
-- Financial time-series modelling and volatility forecasting
-- Conformal prediction, calibration, and uncertainty-aware risk modelling
-- Machine learning systems, model validation, and empirical research tooling
-
-## Selected Work
-
-- **Conformal Prediction for Volatility Forecasting** — S&P 500 realized volatility interval forecasting using Split Conformal, ACI, and EnbPI.
-- **ML Systems & Optimization** — production-oriented ML workflow experience from Huawei R&D, including PyTorch model optimization and predictive modelling pipelines.
-- **Quantitative Research Tooling** — reproducible Python workflows for data processing, modelling, backtesting-style evaluation, and result analysis.
+- Financial time-series modelling and realized volatility forecasting
+- Conformal prediction, calibration, and uncertainty quantification
+- Market risk analytics and model validation
+- ML systems, reproducible research workflows, and data pipelines
 
 ## Stack
 
