@@ -1,37 +1,9 @@
-# Songming (Antonio) Zhou
+**2026 International Quant Competition (WorldQuant) — Gold Level Recognition** | **Ex-HUAWEI** | MSc Quantitative Finance at **University of Warsaw**.
 
-**MSc Quantitative Finance @ University of Warsaw** | **Ex-HUAWEI** | **2026 International Quant Competition (WorldQuant) — Gold Level Recognition**
+Quantitative Finance & Financial Machine Learning | Financial Time-Series Modelling | Volatility Forecasting.
 
-Quantitative finance and financial machine learning, with a focus on financial time-series modelling, volatility forecasting, uncertainty quantification, and robust model evaluation for market data.
+🔗 **[Visit my website](https://antonio-portfolio-ruddy.vercel.app/) for full portfolio, projects, and experience**.
 
-<p>
-  <a href="https://antonio-portfolio-ruddy.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-antonio--portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/songming-zhou-087380243/">
-    <img src="https://img.shields.io/badge/LinkedIn-Songming%20Zhou-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+## 🔗 Links
 
-## Focus
-
-- Financial time-series modelling and realized volatility forecasting
-- Conformal prediction, calibration, and uncertainty quantification
-- Market risk analytics and model validation
-- ML systems, reproducible research workflows, and data pipelines
-
-## Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge" alt="XGBoost" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-antonio--portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://antonio-portfolio-ruddy.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Songming%20Zhou-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/songming-zhou-087380243/)
