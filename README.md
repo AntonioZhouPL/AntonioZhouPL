@@ -1,6 +1,6 @@
 # Songming (Antonio) Zhou
 
-**MSc Quantitative Finance @ University of Warsaw** · **Ex-HUAWEI** · **2026 International Quant Competition (WorldQuant) — Gold Level Recognition**
+**MSc Quantitative Finance @ University of Warsaw** | **Ex-HUAWEI** | **2026 International Quant Competition (WorldQuant) — Gold Level Recognition**
 
 Quantitative finance and financial machine learning, with a focus on financial time-series modelling, volatility forecasting, uncertainty quantification, and robust model evaluation for market data.
 
