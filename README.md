@@ -1,4 +1,4 @@
-**2026 International Quant Competition (WorldQuant) — Gold Level Recognition** | MSc Quantitative Finance at **University of Warsaw** | Former **Algorithms / ML Project Leader** at Huawei R&D.
+**2026 International Quant Competition (WorldQuant) — Gold Level Recognition** | MSc Quantitative Finance at **University of Warsaw** | **Ex-HUAWEI**.
 
 I work on the intersection of **machine learning systems**, **financial time-series modelling**, and **quantitative research tooling**.
 
